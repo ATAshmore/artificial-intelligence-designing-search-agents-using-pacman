@@ -1,3 +1,4 @@
+
 # artificial-intelligence-designing-search-agents-using-pacman
 Pacman Search Agents
 This repository contains the implementation of various search algorithms for guiding Pacman in finding food dots within mazes. The project focuses on four search algorithms:
